@@ -4,7 +4,7 @@ This is Cache tool for the IPFS-DHT-Spider-Website
 
 https://github.com/magnshen/IPFS-DHT-Spider-Website
 
-Cache read and write in Database。Create Database Script in https://github.com/magnshen/IPFS-DHT-Spider-Server
+Cache read and write in Database。Create Database Script is    [CreateDB.sql](https://github.com/magnshen/IPFS-DHT-Spider-Server/blob/master/CreateDB.sql)
 
 ### Build
 
@@ -18,6 +18,6 @@ update News info :   erery two seconds, automatic cycling
 
 $ ./update-cache 
 
-update Days info :  one time a day ,use  crond.service
+update Days info :  one times a day ,use  crond.service
 
 $ ./update-cach -daysInfo
