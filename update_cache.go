@@ -16,10 +16,6 @@ type configuration struct {
 	SERVER  string
 	PORT    int
 	DATABASE string
-	ServerHost string
-	BoostrapperNodes []interface{}
-	SwarmListen string
-	RestartSeconds int
 }
 
 func main() {
