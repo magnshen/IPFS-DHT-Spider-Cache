@@ -1,10 +1,6 @@
 # IPFS-DHT-Spider-网站缓存更新工具
 
-这是IPFS-DHT-Spider-Website中接口使用的缓存的更新工具。缓存的存取在数据库中，建表脚本在
-
-[IPFS-DHT-Spider-Server]: https://github.com/magnshen/IPFS-DHT-Spider-Server
-
-
+这是IPFS-DHT-Spider-Website中接口使用的缓存的更新工具。缓存的存取在数据库中，建表脚本在https://github.com/magnshen/IPFS-DHT-Spider-Server
 
 ### 编译
 
